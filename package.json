@@ -1,0 +1,22 @@
+{
+  "name": "finerio-pfm-web-components",
+  "version": "1.0.0",
+  "description": "![Language](https://img.shields.io/badge/Language-JavaScript-yellow.svg) ![Category](https://img.shields.io/badge/Category-WebComponents-blue.svg)",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finerio-Connect/finerio-pfm-web-components.git"
+  },
+  "author": "Finerio Connect",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Finerio-Connect/finerio-pfm-web-components/issues"
+  },
+  "homepage": "https://github.com/Finerio-Connect/finerio-pfm-web-components#readme",
+  "dependencies": {
+    "finerio-pfm-web": "^1.0.3"
+  }
+}

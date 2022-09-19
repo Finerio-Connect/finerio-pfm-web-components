@@ -12,7 +12,10 @@ This repository is an example of how to implement the finerio connect PFM web co
 
         npm install @qiskit/web-components
 
-4.  Open the project path in the browser
+4.  Open the src project path in the browser
+
+        finerio-pfm-web-components/src/index.html
+
 
 ## How to use
 
