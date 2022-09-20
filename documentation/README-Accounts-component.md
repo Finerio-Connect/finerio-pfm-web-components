@@ -1,4 +1,5 @@
 # Accounts Component
+![Language](https://img.shields.io/badge/Language-JavaScript-yellow.svg) ![Category](https://img.shields.io/badge/Category-WebComponents-blue.svg)
 
 This component helps in managing accounts and calculating their balance.
 

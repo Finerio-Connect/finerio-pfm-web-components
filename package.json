@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Finerio-Connect/finerio-pfm-web-components#readme",
   "dependencies": {
-    "finerio-pfm-web": "^1.0.3"
+    "finerio-pfm-web": "^1.0.4"
   }
 }
