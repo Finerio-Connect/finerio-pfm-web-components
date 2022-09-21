@@ -100,7 +100,7 @@ class Sidenav extends HTMLElement {
                     this._elementSelected === "summary" ? " selected" : ""
                   }"><img src="assets/summary${
       this._elementSelected === "summary" ? "-selected" : ""
-    }-icon.png" /><a href="summary.html">Resumen</a></div>
+    }-icon.png" /><a href="index.html">Resumen</a></div>
                   <div class="list-item${
                     this._elementSelected === "movements" ? " selected" : ""
                   }"><img src="assets/movements${
